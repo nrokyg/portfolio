@@ -568,9 +568,9 @@ nav ul li:first-child{
     }
   
 .content__title {
-	font-size: 4rem;
-    letter-spacing: 2vh;
-    padding-top: 50%;
+	font-size: 3rem;
+   letter-spacing: 1.5vh;
+    padding-top: 220px;
     margin: 0 auto;
     text-align: center;
 	color: var(--color-title);
@@ -582,6 +582,7 @@ nav ul li:first-child{
 }   
     .about__flex{
         display: block;
+        margin-top: 150px;
     }   
     .about__left{
     text-align: center;
